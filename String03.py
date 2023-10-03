@@ -8,4 +8,3 @@ def main(s):
     """
     w=s.lower()
     return w
-print(main('HELLO WORLd'))

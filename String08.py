@@ -11,4 +11,3 @@ def main(s):
         return True
     if w!=s:
         return False
-print(main('HELLO WORLd'))

@@ -8,4 +8,3 @@ def main(s):
     """
     w=s.title()
     return w
-print(main('hEllo wOrld')) 
