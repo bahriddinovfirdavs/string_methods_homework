@@ -6,5 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    w=s.title()
+    return w
+print(main('hEllo wOrld'))

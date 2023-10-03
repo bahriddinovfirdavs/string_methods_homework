@@ -6,5 +6,9 @@ def main(s):
     Returns:
         bool: answer
     """
-    
-    return
+    w=s.upper()
+    if w==s:
+        return True
+    if w!=s:
+        return False
+print(main('HELLO WORLd'))
