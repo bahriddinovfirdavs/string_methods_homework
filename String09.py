@@ -6,5 +6,9 @@ def main(s):
     Returns:
         int: answer
     """ 
-    
-    return
+    a=0
+    for i in s:
+        if i=='a':
+            a+=1
+    return a
+print(main('aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'))

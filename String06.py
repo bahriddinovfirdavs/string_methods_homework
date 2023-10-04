@@ -6,3 +6,5 @@ def main(s):
     Returns:
         bool: answer
     """
+    r=s
+    return r
